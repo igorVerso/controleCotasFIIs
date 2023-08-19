@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/07/23 18:48:45.000.440,=C:\Users\igorm\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/07/23 18:54:16.000.333,C:\Users\igorm\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\igorm\OneDrive\Área de Trabalho\projeto XP finança\ufmMain.pas</Transaction>
+    <Transaction>2023/07/23 18:54:16.000.333,C:\Users\igorm\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\igorm\OneDrive\Área de Trabalho\projeto XP finança\ufmMain.dfm</Transaction>
+    <Transaction>2023/07/23 18:54:31.000.243,C:\Users\igorm\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\igorm\OneDrive\Área de Trabalho\projeto XP finança\FinançasXP.dproj</Transaction>
+    <Transaction>2023/07/23 18:54:52.000.903,=C:\Users\igorm\OneDrive\Área de Trabalho\projeto XP finança\Unit1.pas</Transaction>
+    <Transaction>2023/07/23 18:55:36.000.053,C:\Users\igorm\OneDrive\Área de Trabalho\projeto XP finança\Unit1.pas=C:\Users\igorm\OneDrive\Área de Trabalho\projeto XP finança\DB\uDB.pas</Transaction>
+    <Transaction>2023/07/23 21:12:33.000.414,=C:\Users\igorm\OneDrive\Área de Trabalho\projeto XP finança\Unit1.pas</Transaction>
+    <Transaction>2023/07/23 21:13:36.000.327,C:\Users\igorm\OneDrive\Área de Trabalho\projeto XP finança\Unit1.pas=C:\Users\igorm\OneDrive\Área de Trabalho\projeto XP finança\Classe\uConfig.pas</Transaction>
+    <Transaction>2023/07/24 21:03:01.000.006,=C:\Users\igorm\OneDrive\Área de Trabalho\projeto XP finança\Unit1.pas</Transaction>
+    <Transaction>2023/07/24 21:07:51.000.829,C:\Users\igorm\OneDrive\Área de Trabalho\projeto XP finança\class\uInvestimento.pas=C:\Users\igorm\OneDrive\Área de Trabalho\projeto XP finança\Unit1.pas</Transaction>
+    <Transaction>2023/07/24 21:23:08.000.456,=C:\Users\igorm\OneDrive\Área de Trabalho\projeto XP finança\Unit1.pas</Transaction>
+    <Transaction>2023/07/24 21:24:24.000.598,C:\Users\igorm\OneDrive\Área de Trabalho\projeto XP finança\db\uDB.pas=C:\Users\igorm\OneDrive\Área de Trabalho\projeto XP finança\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
